@@ -5,5 +5,6 @@ def counting():
         print("old")
     else:
         print("heelo")
+        
 
-counting()
+
