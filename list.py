@@ -10,4 +10,4 @@ listing[0] = "hello"
 print(listing)
 
 
-
+print("x" in listing)
